@@ -1,7 +1,5 @@
 # Japanese Kana Learning Tool / 日語假名溫習工具
 
-![App Screenshot](./screenshot.png)
-
 An interactive web tool for learning Japanese kana (Hiragana and Katakana).  
 一個幫助學習日語假名（平假名和片假名）的互動式網頁工具。
 
@@ -42,12 +40,6 @@ git clone https://github.com/yourusername/japanese-kana-drill.git
 
 2. 開啟index.html即可使用
 
-或直接訪問線上版本：[Demo連結](#)
-
-## Screenshots / 界面預覽
-
-![瀏覽模式](./screenshot-browse.png)
-![練習模式](./screenshot-practice.png)
 
 ## Development / 開發
 
